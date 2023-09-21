@@ -1,0 +1,23 @@
+{
+  "name": "electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",  
+    "url": "git+https://github.com/miguel20br/Electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miguel20br/Electron/issues"
+  },
+  "homepage": "https://github.com/miguel20br/Electron#readme",
+  "dependencies": {
+    "electron": "^26.2.2"
+  }
+}
